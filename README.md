@@ -70,10 +70,10 @@ DELETE https://api.github.com/repos/denzuko-devops/secrets/collaborators/:github
 
 ## External References
 
-[https://gist.github.com/andrewlkho/7373190](How to use authentication subkeys in gpg for SSH public key authentication)
-[http://evans.io/legacy/posts/ssh-agent-for-sudo-authentication/](SSH agent for sudo authentication)
-[https://www.ibm.com/developerworks/aix/library/au-sshlocks/](Three locks for ssh door)
-[https://wiki.archlinux.org/index.php/SSH_keys#pam_ssh](Pam SSH)
-[https://hobo.house/2016/06/20/fun-and-profit-with-reverse-ssh-tunnels-and-autossh/](Auto reverse ssh tunnels)
-[https://samsaffron.com/archive/2008/07/02/SSH+Jumphosts+tunneling+and+other+curiosities+](Jumphost tunnling)
-[https://karlgrz.com/2fa-gpg-ssh-keys-with-pass-and-yubikey-neo/](2fa with gpg keys and yubikey)
+- [How to use authentication subkeys in gpg for SSH public key authentication](https://gist.github.com/andrewlkho/7373190)
+- [SSH agent for sudo authentication](http://evans.io/legacy/posts/ssh-agent-for-sudo-authentication/)
+- [Three locks for ssh door](https://www.ibm.com/developerworks/aix/library/au-sshlocks/]
+- [Pam SSH Authentication](https://wiki.archlinux.org/index.php/SSH_keys#pam_ssh)
+- [Auto reverse ssh tunnels](https://hobo.house/2016/06/20/fun-and-profit-with-reverse-ssh-tunnels-and-autossh/)
+- [Jumphost tunnling](https://samsaffron.com/archive/2008/07/02/SSH+Jumphosts+tunneling+and+other+curiosities+)
+- [2fa with gpg keys and yubikey](https://karlgrz.com/2fa-gpg-ssh-keys-with-pass-and-yubikey-neo/)
