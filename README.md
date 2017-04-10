@@ -68,6 +68,16 @@ DELETE https://api.github.com/repos/denzuko-devops/secrets/collaborators/:github
 ## Changing Context/Orgs
 `pass git checkout iso.org.dod.internet.42387.customers.OID`
 
+## Directory Structure
+
+Directories begin with the baseDN and originization (ie DC=net,DC=dapla,O=devops). Following this the next level is originization/business unit then class of key, protocol name for the common port if applicaple and common name.
+
+For example to access a web service key one would use:
+
+```
+pass 'DC=net,DC=dapla,O=devops/OU=operations/OU=Application Keys/OU=https/CN=routerlogin.matrix.net'
+```
+
 ## External References
 
 - [How to use authentication subkeys in gpg for SSH public key authentication](https://gist.github.com/andrewlkho/7373190)
