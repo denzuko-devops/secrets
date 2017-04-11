@@ -89,3 +89,4 @@ pass 'DC=net,DC=dapla,O=devops/OU=operations/OU=Application Keys/OU=https/CN=rou
 - [2fa with gpg keys and yubikey](https://karlgrz.com/2fa-gpg-ssh-keys-with-pass-and-yubikey-neo/)
 - [Create CSR from gpg key and openssl](http://wiki.cacert.org/ConvertingPgpKeyToCertificate)
 - [Stunnel Client auth](http://wiki.cacert.org/StunnelConfiguration)
+- [Automatic SSL Creation](https://gist.github.com/denzuko/05c4c51ea451d4196df68ab22b6ca3c6)
