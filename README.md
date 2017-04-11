@@ -87,3 +87,5 @@ pass 'DC=net,DC=dapla,O=devops/OU=operations/OU=Application Keys/OU=https/CN=rou
 - [Auto reverse ssh tunnels](https://hobo.house/2016/06/20/fun-and-profit-with-reverse-ssh-tunnels-and-autossh/)
 - [Jumphost tunnling](https://samsaffron.com/archive/2008/07/02/SSH+Jumphosts+tunneling+and+other+curiosities+)
 - [2fa with gpg keys and yubikey](https://karlgrz.com/2fa-gpg-ssh-keys-with-pass-and-yubikey-neo/)
+- [Create CSR from gpg key and openssl](http://wiki.cacert.org/ConvertingPgpKeyToCertificate)
+- [Stunnel Client auth](http://wiki.cacert.org/StunnelConfiguration)
